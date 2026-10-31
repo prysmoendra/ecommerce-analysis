@@ -476,6 +476,6 @@ with tab4:
 # ==============================================================================
 st.markdown("---")
 st.markdown(
-    "<center><small>Proyek Akhir Belajar Analisis Data dengan Python — Dicoding Indonesia | Dibuat oleh Fadhil</small></center>",
+    "<center><small>Proyek Akhir Belajar Analisis Data dengan Python — Dicoding Indonesia | Dibuat oleh Fajar Krismahendra Bintang Pangestu</small></center>",
     unsafe_allow_html=True
 )
